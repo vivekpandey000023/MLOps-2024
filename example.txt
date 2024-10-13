@@ -1,3 +1,1 @@
-Hello MLops,
-
-This is for assignment work.
+I am working on assignment 2 of MLOps.
