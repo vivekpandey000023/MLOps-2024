@@ -1,5 +1,1 @@
-Hello MLops,
-
-This is for assignment work.
-
-Working on branch M23CSA542.
+I am working on assignment 2 of MLOps.
